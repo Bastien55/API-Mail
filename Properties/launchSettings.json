@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "API-Mail": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
